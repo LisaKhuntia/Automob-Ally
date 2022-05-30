@@ -6,8 +6,8 @@ This app helps people involved in the Automotive industry to analyse trends in v
 
 ***
 ## About the App
-Being a automobile manufacturer is no longer a thing of difficulty with your very own 'interactive' web ally, Automob-Ally. Let's begin by looking at the state of the automobile industry to evaluate its condition using this data.
-This web application is my submission for the month long challenge to build a video-calling app in **Engage'21, a mentorship program conducted by Microsoft.**
+Being an automobile manufacturer is no longer a thing of difficulty with your very own 'interactive' web ally, Automob-Ally. Let's begin by looking at the state of the automobile industry to evaluate its condition using this data.
+This web application is my submission for the month long challenge to build a web app for  Data analysis in **Engage'22, a mentorship program conducted by Microsoft.**
 
 
 ***
@@ -35,17 +35,18 @@ https://clipchamp.com/watch/lfYAzUeFTZ4
 - Analysis based on body type and fuel type of a vehicle, which are among the decisive factors that divide customer opinions thus giving us customer segments for the first division.
 - Preliminary EDA with correlation matrix and price vs other factor Analysis for inspection of factors at a glance
 - Power, price, mileage interactive graph for the automotive industry men to easily hover over and determine where their upcoming car model lies
+![Interactive Graph](https://github.com/LisaKhuntia/Automob-Ally/blob/main/Data/Screenshot%20(372).png)
 - Animated scatterplot to easily map out the relation between any two columns from the data.
 - A filter to determine competitors based on fuel type and body type.
 - Selecting a certain range of price to see how many other competitors a model, if released now, will have in the industry.
 - Interactive UI for all kinds of analysis
-- Visually appealing than long long lines of code.
+- Visually more appealing  than long long lines of code.
 - Responsive and interactive with its plotly graphs.
 
 
 ***
 ## Thought behind the UI
-As a mechanical engineering student with a keen interest for data analysis, I wanted the automtive insudtry to have an interactive UI based app to be able to compare between factors that determine the selling capability of a vehicle.I wanted it to be simple and eye catching so that even people who have not much experience with web applications could use it. This is why the design has been kept minimalistic throughout and features shades of blue since the colour is very easy on the eyes.
+As a mechanical engineering student with a keen interest for data analysis, I wanted the automative insudtry to have an interactive UI based app to be able to compare between factors that determine the selling capability of a vehicle.I wanted it to be simple and eye catching so that even people who have not much experience with web applications could use it. This is why the design has been kept minimalistic throughout and features shades of blue since the colour is very easy on the eyes.
 
 
 ***
